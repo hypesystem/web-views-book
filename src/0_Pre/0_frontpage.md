@@ -1,5 +1,3 @@
-<section class="fontpage">
-
 Rendering Web Views
 ===================
 
@@ -7,4 +5,3 @@ Rendering Web Views
 
 by Niels Roesen Abildgaard <me@hypesystem.dk> & Sigurt Bladt Dinesen <sigurt.bladt@gmail.com>
 
-</section>
