@@ -1,6 +1,18 @@
 Introduction
 ============
 
+**This section should contain:**
+
+- What are the different ways of rendering?
+- What is the central tradeoff (the reason for this book's discussions)?
+
+We need some good nomenclature here...
+
+My initial idea was that server-side rendering is called static or dynamic, depending on how it is made (on-request or pre-made-on-server).
+Rendering in the browser (ie. including content through javascript) would be called "browser-rendering" because it is different from the others in *where* it is done, rather than *how* (it is always dynamic).
+
+-----
+
 There are three different ways to render a webpage:
 
 1. Prerendering static pages
