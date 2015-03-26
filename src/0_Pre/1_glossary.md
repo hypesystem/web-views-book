@@ -1,3 +1,3 @@
-It's not actually rendering (glossary)
-======================================
+It's not actually rendering
+===========================
 
